@@ -1,0 +1,1 @@
+this folder has the dataset which I hae used for segmentation
